@@ -2,7 +2,7 @@ import requests
 
 import json
 
-print("\n ~| Kedy.Coder|~ \n")
+print("\n ~| Luka Coder |~ \n")
 
 target = input("Hedef İp Adresi => ")
 
